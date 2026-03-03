@@ -9,7 +9,7 @@ All analysis was completed using Python, Pandas, Seaborn, and Matplotlib.
 ## 📊 Key Insights
 
 - £108,418.45 total profit generated across the dataset  
-- 318 loss‑making orders (≈20%), totalling £2,200 in losses  
+- 318 loss‑making orders totalling ~£2,200 in losses  
 - Top SKUs achieved 45%+ profit margins  
 - Category profitability varies sharply, with some categories structurally unprofitable  
 - Geographic performance is uneven, with clear top and bottom regions  
