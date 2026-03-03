@@ -20,7 +20,7 @@ All analysis was completed using Python, Pandas, Seaborn, and Matplotlib.
 ## 📈 Visualisations
 
 ### Category Profitability
-![](images/Categorical_Profit.png)
+![](images/Categorical_Progit.png)
 
 ### Top Customers by Profit
 ![](images/Top_Customers_Profit.png)
@@ -29,7 +29,7 @@ All analysis was completed using Python, Pandas, Seaborn, and Matplotlib.
 ![](images/Average_Profit_Margin_by_Category.png)
 
 ### Bottom 10 Locations by Profit
-![](images/Bottom_10_Locations_by_Profit.png)
+![](images/Bottom_10_locations_by_profit.png)
 
 ---
 
